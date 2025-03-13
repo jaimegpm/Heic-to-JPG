@@ -1,6 +1,7 @@
 # HEIC to JPG Converter
 
-A simple Python script to convert HEIC images to JPG format. The script automatically detects ImageMagick installation and provides a user-friendly way to convert multiple HEIC files at once.
+A simple Python script to convert HEIC images to JPG format. The script automatically detects ImageMagick installation and provides a user-friendly way to convert multiple HEIC files at once.  
+I've also added an utils folder where I'll be including future QoL scripts.
 
 ## Features
 
