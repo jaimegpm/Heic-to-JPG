@@ -1,3 +1,5 @@
+# Simple script to delete duplicated files that follow the set up pattern
+
 import os
 import re
 
