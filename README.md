@@ -96,7 +96,4 @@ Do you want to delete the original HEIC files? (yes/no):
 
 Feel free to fork this repository and submit pull requests for any improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
